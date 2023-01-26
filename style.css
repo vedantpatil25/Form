@@ -1,0 +1,75 @@
+*{
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.heading
+{
+    color: rgb(28, 117, 108);
+    text-align: center;
+    font-size: 50px;
+
+}
+.all{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    font-size: 20px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    background-color: rgb(229, 228, 236);
+
+
+
+}
+.bday{
+    padding: 10px;
+}
+.head1{
+    text-align: center;
+    margin: 0px;
+    /* background-color: green; */
+}
+
+input[type="text"],
+input[type="date"],
+input[type="file"]{
+width :100%;
+padding: 7px;
+margin-top : 10px;
+margin-bottom : 10px;
+border: radius 10px;
+}
+input[type='checkbox']
+{
+    padding:10px;
+    margin-top :10px;
+    margin-bottom :10px;
+    border-radius: 10px;
+}
+input[type="date"]
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input[type="submit"]
+{
+    width :100%;
+    background-color: rgb(122, 183, 122);
+    padding:10px;
+    font-size: 20px;
+    margin-top :10px;
+    margin-bottom :10px;
+    border-radius: 10px;
+
+}
+textarea{
+    width: 100%;
+    border-radius: 10px;
+}
+
+select,input[type="Checkbox"],input[type="file"]
+{
+    font-size: 10px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+}
